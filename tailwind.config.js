@@ -34,7 +34,6 @@ module.exports = {
         'blue-b': '#00c6ff',
         'blue-c': '#71d6f4',
         'blue-d': '#120d48',
-        'blue-gradient': 'radial-gradient( circle farthest-corner at 10% 20%,  rgba(234,249,249,0.67) 0.1%, rgba(239,249,251,0.63) 90.1% )',
         'gold': '#CFBC54',
         
         

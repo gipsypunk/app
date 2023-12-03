@@ -5,14 +5,8 @@
     <div>
         <div class="container max-w-7xl mx-auto p-6">
             <div class="flex flex-col items-center md:flex-row">
-                <div class="w-[380px] h-[480px] border border-blue-d bg-blue-gradient rounded-3xl">
-                    <div>
-                        <h1>The Complete Package</h1>
-                        
 
-                    </div>
 
-                </div>
             </div>
         </div>
     </div>

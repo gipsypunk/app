@@ -19,23 +19,23 @@
     </div>
     <div class="flex flex-row p-2">
         <svg class="w-4 h-4 fill-blue-b">
-            <use xlink:href="#arrow"></use>
+            <use xlink:href="#start"></use>
         </svg>
 
         <svg class="w-4 h-4 fill-blue-b">
-            <use xlink:href="#arrow"></use>
+            <use xlink:href="#start"></use>
         </svg>
 
         <svg class="w-4 h-4 fill-blue-b">
-            <use xlink:href="#arrow"></use>
+            <use xlink:href="#start"></use>
         </svg>
 
         <svg class="w-4 h-4 fill-blue-b">
-            <use xlink:href="#arrow"></use>
+            <use xlink:href="#start"></use>
         </svg>
 
         <svg class="w-4 h-4 fill-blue-b">
-            <use xlink:href="#arrow"></use>
+            <use xlink:href="#start"></use>
         </svg>
     </div>
         
@@ -50,22 +50,22 @@
 
 <!-- <div class="flex flex-row"> -->
 <!--             <svg class="w-4 h-4 fill-blue-b"> -->
-<!--                 <use xlink:href="#arrow"></use> -->
+<!--                 <use xlink:href="#start"></use> -->
 <!--             </svg> -->
 <!---->
 <!--             <svg class="w-4 h-4 fill-blue-b"> -->
-<!--                 <use xlink:href="#arrow"></use> -->
+<!--                 <use xlink:href="#start"></use> -->
 <!--             </svg> -->
 <!---->
 <!--             <svg class="w-4 h-4 fill-blue-b"> -->
-<!--                 <use xlink:href="#arrow"></use> -->
+<!--                 <use xlink:href="#start"></use> -->
 <!--             </svg> -->
 <!---->
 <!--             <svg class="w-4 h-4 fill-blue-b"> -->
-<!--                 <use xlink:href="#arrow"></use> -->
+<!--                 <use xlink:href="#start"></use> -->
 <!--             </svg> -->
 <!---->
 <!--             <svg class="w-4 h-4 fill-blue-b"> -->
-<!--                 <use xlink:href="#arrow"></use> -->
+<!--                 <use xlink:href="#start"></use> -->
 <!--             </svg> -->
 <!--         </div> -->

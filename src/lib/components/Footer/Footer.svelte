@@ -17,11 +17,11 @@
                 <div class="p-4">
                     <h3 class="text-2xl font-semibold text-white"><strong><span class="text-blue-b text-3xl">|</span></strong> Menu</h3>
                     <ul class='text-white'>
-                        <li class="pt-2"><a href="" class="menu-link hover:text-blue-b transition-colors">Home</a></li>
-                        <li class="pt-2"><a href="" class="menu-link hover:text-blue-b transition-colors">Producs</a></li>
-                        <li class="pt-2"><a href="" class="menu-link hover:text-blue-b transition-colors">Service</a></li>
-                        <li class="pt-2"><a href="" class="menu-link hover:text-blue-b transition-colors">About us</a></li>
-                        <li class="pt-2"><a href="" class="menu-link hover:text-blue-b transition-colors">Contact us</a></li>
+                        <li class="pt-2"><a href="/" class="menu-link hover:text-blue-b transition-colors">Home</a></li>
+                        <li class="pt-2"><a href="#products" class="menu-link hover:text-blue-b transition-colors">Producs</a></li>
+                        <li class="pt-2"><a href="#service" class="menu-link hover:text-blue-b transition-colors">Service</a></li>
+                        <li class="pt-2"><a href="#about" class="menu-link hover:text-blue-b transition-colors">About us</a></li>
+                        <li class="pt-2"><a href="#contact" class="menu-link hover:text-blue-b transition-colors">Contact us</a></li>
                     </ul>                    
                 </div>
 

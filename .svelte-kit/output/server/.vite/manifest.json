@@ -86,7 +86,7 @@
     "src": "src/lib/assets/qr.png"
   },
   "src/routes/+layout.css": {
-    "file": "_app/immutable/assets/_layout.b3a50fc6.css",
+    "file": "_app/immutable/assets/_layout.1e22567e.css",
     "src": "src/routes/+layout.css"
   },
   "src/routes/+layout.js": {
@@ -96,7 +96,7 @@
   },
   "src/routes/+layout.svelte": {
     "css": [
-      "_app/immutable/assets/_layout.b3a50fc6.css"
+      "_app/immutable/assets/_layout.1e22567e.css"
     ],
     "file": "entries/pages/_layout.svelte.js",
     "imports": [
@@ -106,20 +106,6 @@
     "src": "src/routes/+layout.svelte"
   },
   "src/routes/+page.svelte": {
-    "assets": [
-      "_app/immutable/assets/glass.5963907f.png",
-      "_app/immutable/assets/glass_2.e789c6cc.png",
-      "_app/immutable/assets/Filter2.77c52b40.jpg",
-      "_app/immutable/assets/UVFilter.d4fef4b9.jpg",
-      "_app/immutable/assets/Coarse.fd910a98.jpg",
-      "_app/immutable/assets/Disinfection.1fc2d57d.jpg",
-      "_app/immutable/assets/ReverseOsmosis.c7cc42c8.jpg",
-      "_app/immutable/assets/WaterSoftener.36681a75.jpg",
-      "_app/immutable/assets/WholeHouse.afbd0bd8.png",
-      "_app/immutable/assets/bg-2.886b6c83.png",
-      "_app/immutable/assets/logo_l.7fe7da2a.png",
-      "_app/immutable/assets/qr.be0b5abf.png"
-    ],
     "file": "entries/pages/_page.svelte.js",
     "imports": [
       "_ssr.js"

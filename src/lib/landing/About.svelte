@@ -4,7 +4,7 @@
 
 
 
-<section id="section">
+<section id="about">
     <div>
         <img src="{bg2}" alt="" class='bg-blue-a rotate-180'>
     </div>

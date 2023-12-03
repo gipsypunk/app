@@ -26,8 +26,8 @@
     <Hero/> 
     <Features/>  
     <Products/>  
-    <!-- <Service/>  -->
-    <!-- <About/>   -->
+    <Service/> 
+    <About/>  
     <!-- <Testimonials/>  -->
     <!-- <Numbers/>  -->
     <!-- <Contact/>  -->

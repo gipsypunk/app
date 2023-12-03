@@ -16,7 +16,7 @@
                     <h3 class="text-blue-d text-center break-words md:text-xl md:text-start">We will install a water treatment system <br>within 2 hours after placing the order</h3>
                     <div class="flex flex-row pt-4">
                         <button class="btn  m-2 bg-blue-b text-base border-0 text-white hover:bg-white hover:text-blue-b hover:border hover:border-blue-b w-36 rounded-[50px] shadow-3xl">Order now</button>
-                        <button class="btn  m-2 bg-white  text-base text-blue-b font-semibold hover:bg-blue-b hover:text-white hover:border-none w-36 rounded-[50px] shadow-3xl">Read more</button>
+                        <a href="#features" class='btn  m-2 bg-white  text-base text-blue-b font-semibold hover:bg-blue-b hover:text-white hover:border-none w-36 rounded-[50px] shadow-3xl'>Fuck off</a>
                     </div>
                 </div>
             </div>

@@ -4,7 +4,7 @@
 
 
 
-<section id="features">
+<section id="features" class="mt-8">
     <div class="container max-w-7xl mx-auto p-6">
         <div class="flex flex-col items-center  md:flex-row ">
             <div class="flex flex-col items-center md:w-1/3">

@@ -23,15 +23,15 @@
 
 <Header/>
 <main>
-    <!-- <Hero/>  -->
-    <!-- <Features/>   -->
-    <!-- <Products/>   -->
+    <Hero/> 
+    <Features/>  
+    <Products/>  
     <Service/>  
-    <!-- <About/>   -->
+    <About/>  
     <!-- <Testimonials/>  -->
     <!-- <Numbers/>  -->
     <!-- <Contact/>  -->
     <!-- <CallToAction/>  -->
 </main>
-<!-- <Footer/>  -->
+<Footer/> 
 

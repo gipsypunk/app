@@ -1,0 +1,130 @@
+{
+  ".svelte-kit/generated/server/internal.js": {
+    "file": "internal.js",
+    "imports": [
+      "_internal.js"
+    ],
+    "isEntry": true,
+    "src": ".svelte-kit/generated/server/internal.js"
+  },
+  "_internal.js": {
+    "file": "chunks/internal.js",
+    "imports": [
+      "_ssr.js"
+    ]
+  },
+  "_ssr.js": {
+    "file": "chunks/ssr.js"
+  },
+  "node_modules/@sveltejs/kit/src/runtime/components/error.svelte": {
+    "file": "entries/fallbacks/error.svelte.js",
+    "imports": [
+      "_ssr.js"
+    ],
+    "isEntry": true,
+    "src": "node_modules/@sveltejs/kit/src/runtime/components/error.svelte"
+  },
+  "node_modules/@sveltejs/kit/src/runtime/server/index.js": {
+    "file": "index.js",
+    "imports": [
+      "_internal.js",
+      "_ssr.js"
+    ],
+    "isEntry": true,
+    "src": "node_modules/@sveltejs/kit/src/runtime/server/index.js"
+  },
+  "src/lib/assets/bg-2.png": {
+    "file": "_app/immutable/assets/bg-2.886b6c83.png",
+    "src": "src/lib/assets/bg-2.png"
+  },
+  "src/lib/assets/filters/Coarse.jpg": {
+    "file": "_app/immutable/assets/Coarse.fd910a98.jpg",
+    "src": "src/lib/assets/filters/Coarse.jpg"
+  },
+  "src/lib/assets/filters/Disinfection.jpg": {
+    "file": "_app/immutable/assets/Disinfection.1fc2d57d.jpg",
+    "src": "src/lib/assets/filters/Disinfection.jpg"
+  },
+  "src/lib/assets/filters/Filter.jpg": {
+    "file": "_app/immutable/assets/Filter.5cf08711.jpg",
+    "src": "src/lib/assets/filters/Filter.jpg"
+  },
+  "src/lib/assets/filters/Filter2.jpg": {
+    "file": "_app/immutable/assets/Filter2.77c52b40.jpg",
+    "src": "src/lib/assets/filters/Filter2.jpg"
+  },
+  "src/lib/assets/filters/ReverseOsmosis.jpg": {
+    "file": "_app/immutable/assets/ReverseOsmosis.c7cc42c8.jpg",
+    "src": "src/lib/assets/filters/ReverseOsmosis.jpg"
+  },
+  "src/lib/assets/filters/UVFilter.jpg": {
+    "file": "_app/immutable/assets/UVFilter.d4fef4b9.jpg",
+    "src": "src/lib/assets/filters/UVFilter.jpg"
+  },
+  "src/lib/assets/filters/WaterSoftener.jpg": {
+    "file": "_app/immutable/assets/WaterSoftener.36681a75.jpg",
+    "src": "src/lib/assets/filters/WaterSoftener.jpg"
+  },
+  "src/lib/assets/filters/WholeHouse.png": {
+    "file": "_app/immutable/assets/WholeHouse.afbd0bd8.png",
+    "src": "src/lib/assets/filters/WholeHouse.png"
+  },
+  "src/lib/assets/glass.png": {
+    "file": "_app/immutable/assets/glass.5963907f.png",
+    "src": "src/lib/assets/glass.png"
+  },
+  "src/lib/assets/glass_2.png": {
+    "file": "_app/immutable/assets/glass_2.e789c6cc.png",
+    "src": "src/lib/assets/glass_2.png"
+  },
+  "src/lib/assets/logo/logo_l.png": {
+    "file": "_app/immutable/assets/logo_l.7fe7da2a.png",
+    "src": "src/lib/assets/logo/logo_l.png"
+  },
+  "src/lib/assets/qr.png": {
+    "file": "_app/immutable/assets/qr.be0b5abf.png",
+    "src": "src/lib/assets/qr.png"
+  },
+  "src/routes/+layout.css": {
+    "file": "_app/immutable/assets/_layout.b3a50fc6.css",
+    "src": "src/routes/+layout.css"
+  },
+  "src/routes/+layout.js": {
+    "file": "entries/pages/_layout.js",
+    "isEntry": true,
+    "src": "src/routes/+layout.js"
+  },
+  "src/routes/+layout.svelte": {
+    "css": [
+      "_app/immutable/assets/_layout.b3a50fc6.css"
+    ],
+    "file": "entries/pages/_layout.svelte.js",
+    "imports": [
+      "_ssr.js"
+    ],
+    "isEntry": true,
+    "src": "src/routes/+layout.svelte"
+  },
+  "src/routes/+page.svelte": {
+    "assets": [
+      "_app/immutable/assets/glass.5963907f.png",
+      "_app/immutable/assets/glass_2.e789c6cc.png",
+      "_app/immutable/assets/Filter2.77c52b40.jpg",
+      "_app/immutable/assets/UVFilter.d4fef4b9.jpg",
+      "_app/immutable/assets/Coarse.fd910a98.jpg",
+      "_app/immutable/assets/Disinfection.1fc2d57d.jpg",
+      "_app/immutable/assets/ReverseOsmosis.c7cc42c8.jpg",
+      "_app/immutable/assets/WaterSoftener.36681a75.jpg",
+      "_app/immutable/assets/WholeHouse.afbd0bd8.png",
+      "_app/immutable/assets/bg-2.886b6c83.png",
+      "_app/immutable/assets/logo_l.7fe7da2a.png",
+      "_app/immutable/assets/qr.be0b5abf.png"
+    ],
+    "file": "entries/pages/_page.svelte.js",
+    "imports": [
+      "_ssr.js"
+    ],
+    "isEntry": true,
+    "src": "src/routes/+page.svelte"
+  }
+}

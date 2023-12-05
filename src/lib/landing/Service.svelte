@@ -7,7 +7,7 @@
             <div class="flex flex-col items-center">
                 <h1 class="text-4xl font-display uppercase font-black text-blue-d"><span class="text-blue-b">Our</span> service</h1>
                 <p class='pt-8 text-blue-d text-xl text-center'>
-                    Customers renew their commitment every time they pay their bill, and YesWater strives to return that loyalty with superior service, genuine gratitude and a warm smile during every interaction.
+                    Testimonials
                 </p>
             </div>
 

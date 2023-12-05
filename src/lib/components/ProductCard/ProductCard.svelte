@@ -1,10 +1,9 @@
-<script>
-    import f1 from "$lib/assets/filters/Filter.jpg"
+<script lang="ts">
+
 
     export let ProductTitle = ''
     export let ProductImage = ''
-    export let ProductPrice = ''
-
+    export let ProductPrice = '' 
 
 </script>
 
@@ -38,7 +37,7 @@
             <use xlink:href="#start"></use>
         </svg>
     </div>
-        
+      
     <div class="flex flex-col items-center p-4">
         <h3 class="text-blue-d text-2xl font-semibold p-4">{ProductPrice}</h3>
         <button class="btn  bg-blue-b text-base border-0 text-white hover:bg-white hover:text-blue-b hover:border hover:border-blue-b w-36 rounded-[50px]">Order now</button>
@@ -47,25 +46,3 @@
 
 
 
-
-<!-- <div class="flex flex-row"> -->
-<!--             <svg class="w-4 h-4 fill-blue-b"> -->
-<!--                 <use xlink:href="#start"></use> -->
-<!--             </svg> -->
-<!---->
-<!--             <svg class="w-4 h-4 fill-blue-b"> -->
-<!--                 <use xlink:href="#start"></use> -->
-<!--             </svg> -->
-<!---->
-<!--             <svg class="w-4 h-4 fill-blue-b"> -->
-<!--                 <use xlink:href="#start"></use> -->
-<!--             </svg> -->
-<!---->
-<!--             <svg class="w-4 h-4 fill-blue-b"> -->
-<!--                 <use xlink:href="#start"></use> -->
-<!--             </svg> -->
-<!---->
-<!--             <svg class="w-4 h-4 fill-blue-b"> -->
-<!--                 <use xlink:href="#start"></use> -->
-<!--             </svg> -->
-<!--         </div> -->

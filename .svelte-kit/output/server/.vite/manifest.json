@@ -37,6 +37,22 @@
     "file": "_app/immutable/assets/bg-2.886b6c83.png",
     "src": "src/lib/assets/bg-2.png"
   },
+  "src/lib/assets/bg-3.png": {
+    "file": "_app/immutable/assets/bg-3.9a4d3865.png",
+    "src": "src/lib/assets/bg-3.png"
+  },
+  "src/lib/assets/clients/01.jpg": {
+    "file": "_app/immutable/assets/01.79625fb7.jpg",
+    "src": "src/lib/assets/clients/01.jpg"
+  },
+  "src/lib/assets/clients/02.jpg": {
+    "file": "_app/immutable/assets/02.d9cd0507.jpg",
+    "src": "src/lib/assets/clients/02.jpg"
+  },
+  "src/lib/assets/clients/03.jpg": {
+    "file": "_app/immutable/assets/03.49129384.jpg",
+    "src": "src/lib/assets/clients/03.jpg"
+  },
   "src/lib/assets/filters/Coarse.jpg": {
     "file": "_app/immutable/assets/Coarse.fd910a98.jpg",
     "src": "src/lib/assets/filters/Coarse.jpg"
@@ -44,10 +60,6 @@
   "src/lib/assets/filters/Disinfection.jpg": {
     "file": "_app/immutable/assets/Disinfection.1fc2d57d.jpg",
     "src": "src/lib/assets/filters/Disinfection.jpg"
-  },
-  "src/lib/assets/filters/Filter.jpg": {
-    "file": "_app/immutable/assets/Filter.5cf08711.jpg",
-    "src": "src/lib/assets/filters/Filter.jpg"
   },
   "src/lib/assets/filters/Filter2.jpg": {
     "file": "_app/immutable/assets/Filter2.77c52b40.jpg",
@@ -86,7 +98,7 @@
     "src": "src/lib/assets/qr.png"
   },
   "src/routes/+layout.css": {
-    "file": "_app/immutable/assets/_layout.1e22567e.css",
+    "file": "_app/immutable/assets/_layout.745be203.css",
     "src": "src/routes/+layout.css"
   },
   "src/routes/+layout.js": {
@@ -96,7 +108,7 @@
   },
   "src/routes/+layout.svelte": {
     "css": [
-      "_app/immutable/assets/_layout.1e22567e.css"
+      "_app/immutable/assets/_layout.745be203.css"
     ],
     "file": "entries/pages/_layout.svelte.js",
     "imports": [
@@ -105,20 +117,17 @@
     "isEntry": true,
     "src": "src/routes/+layout.svelte"
   },
+  "src/routes/+page.css": {
+    "file": "_app/immutable/assets/_page.de6b0b81.css",
+    "src": "src/routes/+page.css"
+  },
   "src/routes/+page.svelte": {
     "assets": [
-      "_app/immutable/assets/glass.5963907f.png",
-      "_app/immutable/assets/glass_2.e789c6cc.png",
-      "_app/immutable/assets/Filter2.77c52b40.jpg",
-      "_app/immutable/assets/UVFilter.d4fef4b9.jpg",
-      "_app/immutable/assets/Coarse.fd910a98.jpg",
-      "_app/immutable/assets/Disinfection.1fc2d57d.jpg",
-      "_app/immutable/assets/ReverseOsmosis.c7cc42c8.jpg",
-      "_app/immutable/assets/WaterSoftener.36681a75.jpg",
-      "_app/immutable/assets/WholeHouse.afbd0bd8.png",
-      "_app/immutable/assets/bg-2.886b6c83.png",
-      "_app/immutable/assets/logo_l.7fe7da2a.png",
-      "_app/immutable/assets/qr.be0b5abf.png"
+      "_app/immutable/assets/01.79625fb7.jpg",
+      "_app/immutable/assets/bg-3.9a4d3865.png"
+    ],
+    "css": [
+      "_app/immutable/assets/_page.de6b0b81.css"
     ],
     "file": "entries/pages/_page.svelte.js",
     "imports": [

@@ -1,7 +1,7 @@
 
 
 
-<section id="service">
+<section id="service" class="pt-24 pb-24 relative overflow-hidden">
     <div>
         <div class="container max-w-7xl mx-auto p-6">
             <div class="flex flex-col items-center">

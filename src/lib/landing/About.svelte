@@ -4,7 +4,7 @@
 
 
 
-<section id="about">
+<section id="about" class="pt-24 pb-24 relative overflow-hidden">
     <div>
         <img src="{bg2}" alt="" class='bg-blue-a rotate-180'>
     </div>

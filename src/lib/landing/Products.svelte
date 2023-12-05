@@ -13,7 +13,7 @@
     
 </script>
 
-<section id="products" class="bg-product-pattern bg-no-repeat bg-center">
+<section id="products" class="bg-product-pattern bg-no-repeat bg-center pt-24 pb-24 relative overflow-hidden">
     <div class="container max-w-7xl mx-auto p-6">
         <div class="flex flex-col items-center text-justify p-6">
             <h1 class="text-blue-d font-display text-4xl font-black  uppercase text-center">Choose your <span class="text-blue-b">water filter</span></h1>

@@ -41,6 +41,10 @@
     "file": "_app/immutable/assets/bg-3.9a4d3865.png",
     "src": "src/lib/assets/bg-3.png"
   },
+  "src/lib/assets/bg-4.png": {
+    "file": "_app/immutable/assets/bg-4.67556161.png",
+    "src": "src/lib/assets/bg-4.png"
+  },
   "src/lib/assets/clients/01.jpg": {
     "file": "_app/immutable/assets/01.79625fb7.jpg",
     "src": "src/lib/assets/clients/01.jpg"
@@ -98,7 +102,7 @@
     "src": "src/lib/assets/qr.png"
   },
   "src/routes/+layout.css": {
-    "file": "_app/immutable/assets/_layout.745be203.css",
+    "file": "_app/immutable/assets/_layout.bb139325.css",
     "src": "src/routes/+layout.css"
   },
   "src/routes/+layout.js": {
@@ -107,8 +111,11 @@
     "src": "src/routes/+layout.js"
   },
   "src/routes/+layout.svelte": {
+    "assets": [
+      "_app/immutable/assets/bg-4.67556161.png"
+    ],
     "css": [
-      "_app/immutable/assets/_layout.745be203.css"
+      "_app/immutable/assets/_layout.bb139325.css"
     ],
     "file": "entries/pages/_layout.svelte.js",
     "imports": [

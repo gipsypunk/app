@@ -8,11 +8,12 @@
     import f5 from "$lib/assets/filters/ReverseOsmosis.jpg"
     import f6 from "$lib/assets/filters/WaterSoftener.jpg"
     import f7 from "$lib/assets/filters/WholeHouse.png"
+    import bg4 from "$lib/assets/bg-4.png"
 
     
 </script>
 
-<section id="products">
+<section id="products" class="bg-product-pattern bg-no-repeat bg-center">
     <div class="container max-w-7xl mx-auto p-6">
         <div class="flex flex-col items-center text-justify p-6">
             <h1 class="text-blue-d font-display text-4xl font-black  uppercase text-center">Choose your <span class="text-blue-b">water filter</span></h1>

@@ -48,6 +48,10 @@ module.exports = {
         '3xl': '4px 4px 4px 0px rgba(0, 0, 0, 0.2)',
       },
 
+      backgroundImage: {
+        'product-pattern': "url(./lib/assets/bg-4.png)",
+      },
+
       animation: {
         'bounce2': 'jump 2s alternate infinite;;',
       },

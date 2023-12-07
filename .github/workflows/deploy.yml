@@ -28,7 +28,7 @@ jobs:
 
       - name: build
         env:
-          BASE_PATH: '/app'
+          BASE_PATH: '/$app'
         run: |
           npm run build
 

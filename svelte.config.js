@@ -7,16 +7,16 @@ import { vitePreprocess } from '@sveltejs/kit/vite';
 const config = {
   kit: {
         adapter: adapter({
-            pages: 'build',
-			assets: 'build',
-			fallback: 'index.html',
-			precompress: true,
-			strict: false
+          pages: 'build',
+          assets: 'build',
+          fallback: 'index.html',
+          precompress: true,
+          strict: false
         }),
 
         paths: {
-			base: process.argv.includes('dev') ? '' : process.env.BASE_PATH
-		},
+          base: process.argv.includes('dev') ? '' : process.env.BASE_PATH
+        },
 
                
 

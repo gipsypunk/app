@@ -2,7 +2,8 @@
   ".svelte-kit/generated/server/internal.js": {
     "file": "internal.js",
     "imports": [
-      "_internal.js"
+      "_internal.js",
+      "_paths.js"
     ],
     "isEntry": true,
     "src": ".svelte-kit/generated/server/internal.js"
@@ -10,8 +11,12 @@
   "_internal.js": {
     "file": "chunks/internal.js",
     "imports": [
-      "_ssr.js"
+      "_ssr.js",
+      "_paths.js"
     ]
+  },
+  "_paths.js": {
+    "file": "chunks/paths.js"
   },
   "_ssr.js": {
     "file": "chunks/ssr.js"
@@ -27,82 +32,83 @@
   "node_modules/@sveltejs/kit/src/runtime/server/index.js": {
     "file": "index.js",
     "imports": [
-      "_internal.js",
-      "_ssr.js"
+      "_paths.js",
+      "_ssr.js",
+      "_internal.js"
     ],
     "isEntry": true,
     "src": "node_modules/@sveltejs/kit/src/runtime/server/index.js"
   },
   "src/lib/assets/bg-2.png": {
-    "file": "_app/immutable/assets/bg-2.886b6c83.png",
+    "file": "_app/immutable/assets/bg-2.f0ca9d74.png",
     "src": "src/lib/assets/bg-2.png"
   },
   "src/lib/assets/bg-3.png": {
-    "file": "_app/immutable/assets/bg-3.9a4d3865.png",
+    "file": "_app/immutable/assets/bg-3.51b358fd.png",
     "src": "src/lib/assets/bg-3.png"
   },
   "src/lib/assets/bg-4.png": {
-    "file": "_app/immutable/assets/bg-4.67556161.png",
+    "file": "_app/immutable/assets/bg-4.bda0d0ec.png",
     "src": "src/lib/assets/bg-4.png"
   },
   "src/lib/assets/clients/01.jpg": {
-    "file": "_app/immutable/assets/01.79625fb7.jpg",
+    "file": "_app/immutable/assets/01.3e3e4113.jpg",
     "src": "src/lib/assets/clients/01.jpg"
   },
   "src/lib/assets/clients/02.jpg": {
-    "file": "_app/immutable/assets/02.d9cd0507.jpg",
+    "file": "_app/immutable/assets/02.087e1bc7.jpg",
     "src": "src/lib/assets/clients/02.jpg"
   },
   "src/lib/assets/clients/03.jpg": {
-    "file": "_app/immutable/assets/03.49129384.jpg",
+    "file": "_app/immutable/assets/03.cf46bc87.jpg",
     "src": "src/lib/assets/clients/03.jpg"
   },
   "src/lib/assets/clients/04.jpg": {
-    "file": "_app/immutable/assets/04.c525dac1.jpg",
+    "file": "_app/immutable/assets/04.11a27d27.jpg",
     "src": "src/lib/assets/clients/04.jpg"
   },
   "src/lib/assets/clients/05.png": {
-    "file": "_app/immutable/assets/05.5613fd36.png",
+    "file": "_app/immutable/assets/05.07889f52.png",
     "src": "src/lib/assets/clients/05.png"
   },
   "src/lib/assets/clients/06.jpg": {
-    "file": "_app/immutable/assets/06.f791ae95.jpg",
+    "file": "_app/immutable/assets/06.3f6fd029.jpg",
     "src": "src/lib/assets/clients/06.jpg"
   },
   "src/lib/assets/filters/Coarse.jpg": {
-    "file": "_app/immutable/assets/Coarse.fd910a98.jpg",
+    "file": "_app/immutable/assets/Coarse.40a60222.jpg",
     "src": "src/lib/assets/filters/Coarse.jpg"
   },
   "src/lib/assets/filters/Disinfection.jpg": {
-    "file": "_app/immutable/assets/Disinfection.1fc2d57d.jpg",
+    "file": "_app/immutable/assets/Disinfection.c7559507.jpg",
     "src": "src/lib/assets/filters/Disinfection.jpg"
   },
   "src/lib/assets/filters/Filter2.jpg": {
-    "file": "_app/immutable/assets/Filter2.77c52b40.jpg",
+    "file": "_app/immutable/assets/Filter2.82ec7bf7.jpg",
     "src": "src/lib/assets/filters/Filter2.jpg"
   },
   "src/lib/assets/filters/ReverseOsmosis.jpg": {
-    "file": "_app/immutable/assets/ReverseOsmosis.c7cc42c8.jpg",
+    "file": "_app/immutable/assets/ReverseOsmosis.e166af52.jpg",
     "src": "src/lib/assets/filters/ReverseOsmosis.jpg"
   },
   "src/lib/assets/filters/UVFilter.jpg": {
-    "file": "_app/immutable/assets/UVFilter.d4fef4b9.jpg",
+    "file": "_app/immutable/assets/UVFilter.95e89318.jpg",
     "src": "src/lib/assets/filters/UVFilter.jpg"
   },
   "src/lib/assets/filters/WaterSoftener.jpg": {
-    "file": "_app/immutable/assets/WaterSoftener.36681a75.jpg",
+    "file": "_app/immutable/assets/WaterSoftener.64121b5b.jpg",
     "src": "src/lib/assets/filters/WaterSoftener.jpg"
   },
   "src/lib/assets/filters/WholeHouse.png": {
-    "file": "_app/immutable/assets/WholeHouse.afbd0bd8.png",
+    "file": "_app/immutable/assets/WholeHouse.b9c5bf25.png",
     "src": "src/lib/assets/filters/WholeHouse.png"
   },
   "src/lib/assets/glass.png": {
-    "file": "_app/immutable/assets/glass.5963907f.png",
+    "file": "_app/immutable/assets/glass.e1d5833c.png",
     "src": "src/lib/assets/glass.png"
   },
   "src/lib/assets/glass_2.png": {
-    "file": "_app/immutable/assets/glass_2.e789c6cc.png",
+    "file": "_app/immutable/assets/glass_2.ca5b1351.png",
     "src": "src/lib/assets/glass_2.png"
   },
   "src/lib/assets/logo/logo_l.png": {
@@ -110,11 +116,11 @@
     "src": "src/lib/assets/logo/logo_l.png"
   },
   "src/lib/assets/qr.png": {
-    "file": "_app/immutable/assets/qr.be0b5abf.png",
+    "file": "_app/immutable/assets/qr.5ea3aba2.png",
     "src": "src/lib/assets/qr.png"
   },
   "src/routes/+layout.css": {
-    "file": "_app/immutable/assets/_layout.7b61554c.css",
+    "file": "_app/immutable/assets/_layout.3e49b9a6.css",
     "src": "src/routes/+layout.css"
   },
   "src/routes/+layout.js": {
@@ -124,10 +130,10 @@
   },
   "src/routes/+layout.svelte": {
     "assets": [
-      "_app/immutable/assets/bg-4.67556161.png"
+      "_app/immutable/assets/bg-4.bda0d0ec.png"
     ],
     "css": [
-      "_app/immutable/assets/_layout.7b61554c.css"
+      "_app/immutable/assets/_layout.3e49b9a6.css"
     ],
     "file": "entries/pages/_layout.svelte.js",
     "imports": [
@@ -142,32 +148,33 @@
   },
   "src/routes/+page.svelte": {
     "assets": [
-      "_app/immutable/assets/glass.5963907f.png",
-      "_app/immutable/assets/glass_2.e789c6cc.png",
-      "_app/immutable/assets/Filter2.77c52b40.jpg",
-      "_app/immutable/assets/UVFilter.d4fef4b9.jpg",
-      "_app/immutable/assets/Coarse.fd910a98.jpg",
-      "_app/immutable/assets/Disinfection.1fc2d57d.jpg",
-      "_app/immutable/assets/ReverseOsmosis.c7cc42c8.jpg",
-      "_app/immutable/assets/WaterSoftener.36681a75.jpg",
-      "_app/immutable/assets/WholeHouse.afbd0bd8.png",
-      "_app/immutable/assets/bg-2.886b6c83.png",
-      "_app/immutable/assets/01.79625fb7.jpg",
-      "_app/immutable/assets/02.d9cd0507.jpg",
-      "_app/immutable/assets/03.49129384.jpg",
-      "_app/immutable/assets/04.c525dac1.jpg",
-      "_app/immutable/assets/05.5613fd36.png",
-      "_app/immutable/assets/06.f791ae95.jpg",
-      "_app/immutable/assets/bg-3.9a4d3865.png",
+      "_app/immutable/assets/glass.e1d5833c.png",
+      "_app/immutable/assets/glass_2.ca5b1351.png",
+      "_app/immutable/assets/Filter2.82ec7bf7.jpg",
+      "_app/immutable/assets/UVFilter.95e89318.jpg",
+      "_app/immutable/assets/Coarse.40a60222.jpg",
+      "_app/immutable/assets/Disinfection.c7559507.jpg",
+      "_app/immutable/assets/ReverseOsmosis.e166af52.jpg",
+      "_app/immutable/assets/WaterSoftener.64121b5b.jpg",
+      "_app/immutable/assets/WholeHouse.b9c5bf25.png",
+      "_app/immutable/assets/bg-2.f0ca9d74.png",
+      "_app/immutable/assets/01.3e3e4113.jpg",
+      "_app/immutable/assets/02.087e1bc7.jpg",
+      "_app/immutable/assets/03.cf46bc87.jpg",
+      "_app/immutable/assets/04.11a27d27.jpg",
+      "_app/immutable/assets/05.07889f52.png",
+      "_app/immutable/assets/06.3f6fd029.jpg",
+      "_app/immutable/assets/bg-3.51b358fd.png",
       "_app/immutable/assets/logo_l.7fe7da2a.png",
-      "_app/immutable/assets/qr.be0b5abf.png"
+      "_app/immutable/assets/qr.5ea3aba2.png"
     ],
     "css": [
       "_app/immutable/assets/_page.de6b0b81.css"
     ],
     "file": "entries/pages/_page.svelte.js",
     "imports": [
-      "_ssr.js"
+      "_ssr.js",
+      "_paths.js"
     ],
     "isEntry": true,
     "src": "src/routes/+page.svelte"

@@ -40,7 +40,8 @@
       
     <div class="flex flex-col items-center p-4">
         <h3 class="text-blue-d text-2xl font-semibold p-4">{ProductPrice}</h3>
-        <button class="btn  bg-blue-b text-base border-0 text-white hover:bg-white hover:text-blue-b hover:border hover:border-blue-b w-36 rounded-[50px]">Order now</button>
+        <button class="px-8 btn bg-white border-blue-b rounded-full text-base text-blue-b hover:text-white hover:bg-blue-b md:hover:border-none ">Order now</button>
+
     </div>
 </div>
 

@@ -31,8 +31,8 @@ module.exports = {
     extend: {
       colors: {
         'blue-a': '#EEF9FF',
-        'blue-b': '#00c6ff',
-        'blue-c': '#71d6f4',
+        'blue-b': '#379EFF',
+        'blue-c': '#007fff',
         'blue-d': '#120d48',
         'gold': '#CFBC54',
         

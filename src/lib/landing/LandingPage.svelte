@@ -28,8 +28,8 @@
     <Products/>  
     <Service/>  
     <About/>  
-    <Testimonials/>  
-    <Counter/> 
+    <Counter/>
+    <Testimonials/>   
     <Contacts/> 
 </main>
 <Footer/>  

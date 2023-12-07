@@ -4,7 +4,7 @@
 
 
 
-<section id="hero">
+<section id="hero" class="pt-24 pb-24 relative overflow-hidden">
     <div class="bg-blue-a">
         <div class="container max-w-7xl mx-auto p-6">
             <div  class="flex flex-col items-center  md:flex-row-reverse">

@@ -8,8 +8,8 @@
     import Products from './Products.svelte'
     import Service from './Service.svelte';
     import About from './About.svelte';
-    import Numbers from './Numbers.svelte'
     import Testimonials from './Testimonials.svelte';
+    import Counter from './Counter.svelte'
 	import CallToAction from './CallToAction.svelte';
     import Contacts from './Contacts.svelte'
 
@@ -29,9 +29,8 @@
     <Service/>  
     <About/>  
     <Testimonials/>  
-    <!-- <Numbers/>  -->
-    <!-- <Contact/>  -->
-    <!-- <CallToAction/>  -->
+    <Counter/> 
+    <Contacts/> 
 </main>
-<Footer/> 
+<Footer/>  
 

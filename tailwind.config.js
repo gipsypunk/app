@@ -48,6 +48,12 @@ module.exports = {
         '3xl': '4px 4px 4px 0px rgba(0, 0, 0, 0.2)',
       },
 
+      borderRadius: {
+        'message': '46px 46px 0px 46px',
+        'message_2': '0px 46px 46px 46px'
+
+      },
+
       backgroundImage: {
         'product-pattern': "url(./lib/assets/bg-4.png)",
       },

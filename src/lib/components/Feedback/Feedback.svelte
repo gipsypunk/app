@@ -10,7 +10,7 @@
 
 
 
-<div class="px-4 py-4 bg-white rounded-3xl shadow-lg flex flex-col justify-center items-center  md:flex-row md:flex-row-reverse">
+<div class="px-4 py-4 mb-20 mt-20 bg-white rounded-3xl shadow-lg flex flex-col justify-center items-center  md:flex-row md:flex-row-reverse">
     <div class="flex justify-center md:w-1/3">
         <img src="{FeedbackImage}" alt="" class="w-[200px] h-[200px] rounded-full object-cover">
     </div>
@@ -22,7 +22,7 @@
                 <use xlink:href="#quotation"></use>
             </svg>
         </div>
-        <h3 class="p-2 text-xl text-blue-b">{FeedbackClient}</h3>
+        <h3 class="p-2 text-xl text-blue-b">{FeedbackClientJob}</h3>
         <div class="bg-blue-a rounded-3xl">
             <p class="p-6 text-blue-d text-justify">{FeedbackText}</p>            
         </div>        

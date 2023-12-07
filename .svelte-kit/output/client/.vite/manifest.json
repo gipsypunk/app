@@ -5,16 +5,16 @@
       ".svelte-kit/generated/client-optimized/nodes/1.js",
       ".svelte-kit/generated/client-optimized/nodes/2.js"
     ],
-    "file": "_app/immutable/entry/app.8d2c1446.js",
+    "file": "_app/immutable/entry/app.6048ba49.js",
     "imports": [
-      "_scheduler.63274e7e.js",
-      "_index.7ac8b484.js"
+      "_scheduler.22fe7610.js",
+      "_index.1cc7bd69.js"
     ],
     "isEntry": true,
     "src": ".svelte-kit/generated/client-optimized/app.js"
   },
   ".svelte-kit/generated/client-optimized/nodes/0.css": {
-    "file": "_app/immutable/assets/0.139a1ea7.css",
+    "file": "_app/immutable/assets/0.23bd0f98.css",
     "src": ".svelte-kit/generated/client-optimized/nodes/0.css"
   },
   ".svelte-kit/generated/client-optimized/nodes/0.js": {
@@ -22,23 +22,23 @@
       "_app/immutable/assets/bg-4.67556161.png"
     ],
     "css": [
-      "_app/immutable/assets/0.139a1ea7.css"
+      "_app/immutable/assets/0.23bd0f98.css"
     ],
-    "file": "_app/immutable/nodes/0.e2e82d4c.js",
+    "file": "_app/immutable/nodes/0.ca2cf033.js",
     "imports": [
-      "_scheduler.63274e7e.js",
-      "_index.7ac8b484.js"
+      "_scheduler.22fe7610.js",
+      "_index.1cc7bd69.js"
     ],
     "isDynamicEntry": true,
     "isEntry": true,
     "src": ".svelte-kit/generated/client-optimized/nodes/0.js"
   },
   ".svelte-kit/generated/client-optimized/nodes/1.js": {
-    "file": "_app/immutable/nodes/1.382162b5.js",
+    "file": "_app/immutable/nodes/1.2a6ec4e6.js",
     "imports": [
-      "_scheduler.63274e7e.js",
-      "_index.7ac8b484.js",
-      "_singletons.7c781ba2.js"
+      "_scheduler.22fe7610.js",
+      "_index.1cc7bd69.js",
+      "_singletons.1e63d3bb.js"
     ],
     "isDynamicEntry": true,
     "isEntry": true,
@@ -61,6 +61,11 @@
       "_app/immutable/assets/WholeHouse.afbd0bd8.png",
       "_app/immutable/assets/bg-2.886b6c83.png",
       "_app/immutable/assets/01.79625fb7.jpg",
+      "_app/immutable/assets/02.d9cd0507.jpg",
+      "_app/immutable/assets/03.49129384.jpg",
+      "_app/immutable/assets/04.c525dac1.jpg",
+      "_app/immutable/assets/05.5613fd36.png",
+      "_app/immutable/assets/06.f791ae95.jpg",
       "_app/immutable/assets/bg-3.9a4d3865.png",
       "_app/immutable/assets/logo_l.7fe7da2a.png",
       "_app/immutable/assets/qr.be0b5abf.png"
@@ -68,35 +73,35 @@
     "css": [
       "_app/immutable/assets/2.6c527891.css"
     ],
-    "file": "_app/immutable/nodes/2.bb70d07e.js",
+    "file": "_app/immutable/nodes/2.7b7e1580.js",
     "imports": [
-      "_scheduler.63274e7e.js",
-      "_index.7ac8b484.js"
+      "_scheduler.22fe7610.js",
+      "_index.1cc7bd69.js"
     ],
     "isDynamicEntry": true,
     "isEntry": true,
     "src": ".svelte-kit/generated/client-optimized/nodes/2.js"
   },
-  "_index.7ac8b484.js": {
-    "file": "_app/immutable/chunks/index.7ac8b484.js",
+  "_index.1cc7bd69.js": {
+    "file": "_app/immutable/chunks/index.1cc7bd69.js",
     "imports": [
-      "_scheduler.63274e7e.js"
+      "_scheduler.22fe7610.js"
     ]
   },
-  "_scheduler.63274e7e.js": {
-    "file": "_app/immutable/chunks/scheduler.63274e7e.js"
+  "_scheduler.22fe7610.js": {
+    "file": "_app/immutable/chunks/scheduler.22fe7610.js"
   },
-  "_singletons.7c781ba2.js": {
-    "file": "_app/immutable/chunks/singletons.7c781ba2.js",
+  "_singletons.1e63d3bb.js": {
+    "file": "_app/immutable/chunks/singletons.1e63d3bb.js",
     "imports": [
-      "_scheduler.63274e7e.js"
+      "_scheduler.22fe7610.js"
     ]
   },
   "node_modules/@sveltejs/kit/src/runtime/client/start.js": {
-    "file": "_app/immutable/entry/start.246796d6.js",
+    "file": "_app/immutable/entry/start.e24cbe05.js",
     "imports": [
-      "_scheduler.63274e7e.js",
-      "_singletons.7c781ba2.js"
+      "_scheduler.22fe7610.js",
+      "_singletons.1e63d3bb.js"
     ],
     "isEntry": true,
     "src": "node_modules/@sveltejs/kit/src/runtime/client/start.js"
@@ -124,6 +129,18 @@
   "src/lib/assets/clients/03.jpg": {
     "file": "_app/immutable/assets/03.49129384.jpg",
     "src": "src/lib/assets/clients/03.jpg"
+  },
+  "src/lib/assets/clients/04.jpg": {
+    "file": "_app/immutable/assets/04.c525dac1.jpg",
+    "src": "src/lib/assets/clients/04.jpg"
+  },
+  "src/lib/assets/clients/05.png": {
+    "file": "_app/immutable/assets/05.5613fd36.png",
+    "src": "src/lib/assets/clients/05.png"
+  },
+  "src/lib/assets/clients/06.jpg": {
+    "file": "_app/immutable/assets/06.f791ae95.jpg",
+    "src": "src/lib/assets/clients/06.jpg"
   },
   "src/lib/assets/filters/Coarse.jpg": {
     "file": "_app/immutable/assets/Coarse.fd910a98.jpg",

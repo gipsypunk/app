@@ -21,7 +21,7 @@
                         <li class="pt-2"><a href="#products" class="menu-link hover:text-blue-b transition-colors">Producs</a></li>
                         <li class="pt-2"><a href="#service" class="menu-link hover:text-blue-b transition-colors">Service</a></li>
                         <li class="pt-2"><a href="#about" class="menu-link hover:text-blue-b transition-colors">About us</a></li>
-                        <li class="pt-2"><a href="" class="menu-link hover:text-blue-b transition-colors">Contact us</a></li>
+                        <li class="pt-2"><a href="#contacts" class="menu-link hover:text-blue-b transition-colors">Contact us</a></li>
                     </ul>                    
                 </div>
 

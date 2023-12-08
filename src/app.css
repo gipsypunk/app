@@ -24,3 +24,79 @@ body {
 
 }
 
+
+.hamburger {
+
+    width: 48px;
+    height: 48px;
+
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    transition: .8s ease; 
+
+
+
+
+}
+
+
+.hamburger span {
+    position: absolute;
+    width: 24px;
+    height: 2px;
+    background: #379EFF;
+}
+
+.hamburger input{
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    cursor: pointer;
+    z-index: 1;
+}
+
+.hamburger:hover span {
+    background: white;
+}
+
+.hamburger:active span {
+    background: white;
+}
+
+.hamburger span:nth-child(2){
+    transform: translateY(-8px);
+    transition: all 0.2s;
+}
+.hamburger span:nth-child(5){
+    transform: translateY(8px);
+    transition: all 0.2s;
+}
+.hamburger input:checked ~ span:nth-child(2){
+    opacity: 0;
+}
+.hamburger input:checked ~ span:nth-child(5){
+    opacity: 0;
+}
+
+.hamburger span:nth-child(3){
+    transform: rotate(0);
+    transition: all 0.4s;
+}
+.hamburger span:nth-child(4){
+    transform: rotate(0);
+    transition: all 0.4s;
+}
+
+.hamburger input:checked ~ span:nth-child(3){
+    transform: rotate(45deg);
+}
+
+.hamburger input:checked ~ span:nth-child(4){
+    transform: rotate(-45deg);
+}
+
+
+

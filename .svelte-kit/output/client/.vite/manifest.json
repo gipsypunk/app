@@ -5,7 +5,7 @@
       ".svelte-kit/generated/client-optimized/nodes/1.js",
       ".svelte-kit/generated/client-optimized/nodes/2.js"
     ],
-    "file": "_app/immutable/entry/app.0e71eaad.js",
+    "file": "_app/immutable/entry/app.964d3def.js",
     "imports": [
       "_scheduler.22fe7610.js",
       "_index.1cc7bd69.js"
@@ -14,7 +14,7 @@
     "src": ".svelte-kit/generated/client-optimized/app.js"
   },
   ".svelte-kit/generated/client-optimized/nodes/0.css": {
-    "file": "_app/immutable/assets/0.9de0656e.css",
+    "file": "_app/immutable/assets/0.9f434181.css",
     "src": ".svelte-kit/generated/client-optimized/nodes/0.css"
   },
   ".svelte-kit/generated/client-optimized/nodes/0.js": {
@@ -22,9 +22,9 @@
       "_app/immutable/assets/bg-4.bda0d0ec.png"
     ],
     "css": [
-      "_app/immutable/assets/0.9de0656e.css"
+      "_app/immutable/assets/0.9f434181.css"
     ],
-    "file": "_app/immutable/nodes/0.4dde0511.js",
+    "file": "_app/immutable/nodes/0.1294d0e0.js",
     "imports": [
       "_scheduler.22fe7610.js",
       "_index.1cc7bd69.js"
@@ -34,11 +34,11 @@
     "src": ".svelte-kit/generated/client-optimized/nodes/0.js"
   },
   ".svelte-kit/generated/client-optimized/nodes/1.js": {
-    "file": "_app/immutable/nodes/1.696d7145.js",
+    "file": "_app/immutable/nodes/1.06444986.js",
     "imports": [
       "_scheduler.22fe7610.js",
       "_index.1cc7bd69.js",
-      "_singletons.128c37c8.js"
+      "_singletons.b7d4ee24.js"
     ],
     "isDynamicEntry": true,
     "isEntry": true,
@@ -50,6 +50,7 @@
   },
   ".svelte-kit/generated/client-optimized/nodes/2.js": {
     "assets": [
+      "_app/immutable/assets/logo_d.f6853263.png",
       "_app/immutable/assets/glass.e1d5833c.png",
       "_app/immutable/assets/glass_2.ca5b1351.png",
       "_app/immutable/assets/Filter2.82ec7bf7.jpg",
@@ -67,17 +68,17 @@
       "_app/immutable/assets/05.07889f52.png",
       "_app/immutable/assets/06.3f6fd029.jpg",
       "_app/immutable/assets/bg-3.51b358fd.png",
-      "_app/immutable/assets/logo_l.7fe7da2a.png",
+      "_app/immutable/assets/logo_l.e2569739.png",
       "_app/immutable/assets/qr.5ea3aba2.png"
     ],
     "css": [
       "_app/immutable/assets/2.6c527891.css"
     ],
-    "file": "_app/immutable/nodes/2.baaa51ae.js",
+    "file": "_app/immutable/nodes/2.f3fe2304.js",
     "imports": [
       "_scheduler.22fe7610.js",
       "_index.1cc7bd69.js",
-      "_paths.7a724597.js"
+      "_paths.1e5cff34.js"
     ],
     "isDynamicEntry": true,
     "isEntry": true,
@@ -89,25 +90,25 @@
       "_scheduler.22fe7610.js"
     ]
   },
-  "_paths.7a724597.js": {
-    "file": "_app/immutable/chunks/paths.7a724597.js"
+  "_paths.1e5cff34.js": {
+    "file": "_app/immutable/chunks/paths.1e5cff34.js"
   },
   "_scheduler.22fe7610.js": {
     "file": "_app/immutable/chunks/scheduler.22fe7610.js"
   },
-  "_singletons.128c37c8.js": {
-    "file": "_app/immutable/chunks/singletons.128c37c8.js",
+  "_singletons.b7d4ee24.js": {
+    "file": "_app/immutable/chunks/singletons.b7d4ee24.js",
     "imports": [
       "_scheduler.22fe7610.js",
-      "_paths.7a724597.js"
+      "_paths.1e5cff34.js"
     ]
   },
   "node_modules/@sveltejs/kit/src/runtime/client/start.js": {
-    "file": "_app/immutable/entry/start.11e04403.js",
+    "file": "_app/immutable/entry/start.3ed82e10.js",
     "imports": [
       "_scheduler.22fe7610.js",
-      "_singletons.128c37c8.js",
-      "_paths.7a724597.js"
+      "_singletons.b7d4ee24.js",
+      "_paths.1e5cff34.js"
     ],
     "isEntry": true,
     "src": "node_modules/@sveltejs/kit/src/runtime/client/start.js"
@@ -184,8 +185,12 @@
     "file": "_app/immutable/assets/glass_2.ca5b1351.png",
     "src": "src/lib/assets/glass_2.png"
   },
+  "src/lib/assets/logo/logo_d.png": {
+    "file": "_app/immutable/assets/logo_d.f6853263.png",
+    "src": "src/lib/assets/logo/logo_d.png"
+  },
   "src/lib/assets/logo/logo_l.png": {
-    "file": "_app/immutable/assets/logo_l.7fe7da2a.png",
+    "file": "_app/immutable/assets/logo_l.e2569739.png",
     "src": "src/lib/assets/logo/logo_l.png"
   },
   "src/lib/assets/qr.png": {

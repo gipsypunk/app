@@ -48,7 +48,7 @@
                 <a href="{base}/" class='p-2'><img src="{logo}" alt="" class="w-[200px] h-[52px] object-cover"></a>
 
                 <ul class="hidden h-10 md:flex md:space-x-8 items-center">
-                    <li><a  href="{base}#home" class="el-10 text-blue-d hover:text-blue-b">Home</a></li>
+                    <li><a  href="{base}/" class="el-10 text-blue-d hover:text-blue-b">Home</a></li>
                     <li><a  href="{base}#products" class="el-10 text-blue-d hover:text-blue-b">Products</a></li>
                     <li><a  href="{base}#service" class="el-10 text-blue-d hover:text-blue-b">Service</a></li>
                     <li><a  href="{base}#about" class="el-10 text-blue-d hover:text-blue-b">About us</a></li>
@@ -80,7 +80,7 @@
 
 
                 <ul class="p-8 flex flex-col uppercase font-semibold">
-                    <li class="p-2"><a  id="nav-link" href="{base}#home" class="text-blue-d hover:text-blue-b nav-link">Home</a></li>
+                    <li class="p-2"><a  id="nav-link" href="{base}/" class="text-blue-d hover:text-blue-b nav-link">Home</a></li>
                     <li class="p-2"><a  id="nav-link" href="{base}#products" class="text-blue-d hover:text-blue-b nav-link">Products</a></li>
                     <li class="p-2"><a  id="nav-link" href="{base}#service" class="text-blue-d hover:text-blue-b nav-link">Service</a></li>
                     <li class="p-2"><a  id="nav-link" href="{base}#about" class="text-blue-d hover:text-blue-b nav-link">About us</a></li>

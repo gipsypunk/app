@@ -52,7 +52,7 @@
                         </p>
                     </div>
                     <div class="flex flex-row justify-end p-8">
-                            <a href="" class="text-end text-blue-b hover:text-blue-d">Order the installation</a>
+                            <a href="mailto:info@yeswater.la" class="text-end text-blue-b hover:text-blue-d">Order the installation</a>
                     </div>
                 </div>
 

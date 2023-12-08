@@ -11,7 +11,7 @@
             <div class="md:w-2/4 mt-8">
 
                 <div class="flex float-right pt-4 pb-4">
-                    <a href="" class="px-6 py-4 bg-blue-b shadow-2xl text-white text-4xl rounded-message md:text-6xl md:px-12">info@yeswater.la</a>
+                    <a href="mailto:info@yeswater.la" class="px-6 py-4 bg-blue-b shadow-2xl text-white text-4xl rounded-message md:text-6xl md:px-12">info@yeswater.la</a>
                 </div>
                 <div class="flex float-left pt-4 pb-4">
                     <a href="tel:+14244386801" class="px-6 py-4 bg-blue-d shadow-2xl text-white text-4xl rounded-message_2  md:text-6xl md:px-12">424.438.6801</a>

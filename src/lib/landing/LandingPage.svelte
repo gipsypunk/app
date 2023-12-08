@@ -15,15 +15,21 @@
 
 
 
+
     import Footer from '$component/Footer/Footer.svelte'
+    
+    import Modal from '$component/Modal/Modal.svelte';
+    import Form from '$component/Form/Form.svelte';
 
 
 </script>
 
 
+
+
 <Header/>
 <main>
-    <Hero/> 
+    <Hero/>
     <Features/>  
     <Products/>  
     <Service/>  
@@ -31,6 +37,11 @@
     <Counter/>
     <Testimonials/>   
     <Contacts/> 
+
+
+
 </main>
-<Footer/>  
+<Modal/> 
+<Footer/>
+
 

@@ -124,7 +124,7 @@
     "src": "src/lib/assets/qr.png"
   },
   "src/routes/+layout.css": {
-    "file": "_app/immutable/assets/_layout.4334bb12.css",
+    "file": "_app/immutable/assets/_layout.3267e402.css",
     "src": "src/routes/+layout.css"
   },
   "src/routes/+layout.js": {
@@ -137,7 +137,7 @@
       "_app/immutable/assets/bg-4.bda0d0ec.png"
     ],
     "css": [
-      "_app/immutable/assets/_layout.4334bb12.css"
+      "_app/immutable/assets/_layout.3267e402.css"
     ],
     "file": "entries/pages/_layout.svelte.js",
     "imports": [
